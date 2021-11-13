@@ -1,2 +1,4 @@
-#This is my first Post
-##I am not sure how it is going to look like
+---
+title: "MY FIRST POST"
+date: 2021-11-13
+---
